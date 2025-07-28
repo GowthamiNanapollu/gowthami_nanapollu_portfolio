@@ -54,7 +54,7 @@ const HeroSection = () => {
               {/* Social Icons */}
               <div className="flex justify-center md:justify-start space-x-4">
                 <a
-                  href="https://www.linkedin.com/in/gowthaminanapollu/"
+                  href="https://www.linkedin.com/in/gowthami-nanapollu/"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="LinkedIn"
